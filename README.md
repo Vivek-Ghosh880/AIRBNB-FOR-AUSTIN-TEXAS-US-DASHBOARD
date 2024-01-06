@@ -1,4 +1,4 @@
-# AIRBNB-FOR-AUSTIN-TEXAS-US-DASHBOARD-
+# AIRBNB-FOR-AUSTIN-TEXAS-US-DASHBOARD
 Data Analytics_Tableau
 
 •	Utilized Microsoft Excel to gather and meticulously cleanse data from sources.
